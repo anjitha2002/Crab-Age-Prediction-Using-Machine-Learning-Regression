@@ -9,15 +9,23 @@ The project includes data preprocessing, categorical data encoding, feature scal
 ## Technologies Used
 
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Google Colab
+
 Machine Learning – Regression
 
 ## Machine Learning Models
 
 Linear Regression
+
 Random Forest Regressor
+
 Gradient Boosting Regressor
+
 Decision Tree Regressor
